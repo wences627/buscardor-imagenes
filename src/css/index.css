@@ -49,3 +49,8 @@ h2 {
 .cabeza{
   margin-top: 20px;
 }
+
+.img {
+  height: 180px;
+  width: auto;
+}
